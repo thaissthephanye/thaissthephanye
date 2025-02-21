@@ -1,170 +1,67 @@
-  <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"></a>
-</div>
-<hr>
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="azzar" height="30"></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=1999AZZAR&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" height="25" alt="views count"></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" src="https://img.shields.io/website?down_message=offline&amp;style=for-the-badge&amp;up_message=online&amp;url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website"></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center" src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built"></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&amp;style=for-the-badge" height="25" alt="lisense"></a>
-  <a href="github.com/1999AZZAR"><img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="work on my machine"></a>
- </p>
- </samp>
-</div>
-</details>
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br>
-    <details open="">
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
-          </a>
-        </p>
-</details>
-    <details open="">
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&amp;theme=gruvbox&amp;hide_border=true">
-          </a>
-       </p>
-     <br>
-     
-  </details></samp></div>    
-</details>
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true"></a>
+  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
+<h3 align="center">A passionate Mobile App developer from Pune India 🇮🇳</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&amp;style=for-the-badge" alt="100rabhcsmc"></a> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<ul>
+<li>
+<p>🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a></p>
+</li>
+<li>
+<p>🌱 I’m currently Working on Mobile App(React-Native)</p>
+</li>
+<li>
+<p>🤝 I’m available for freelancing.</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Swift &amp;&amp; SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a></p>
+</li>
+<li>
+<p>📝 I regularly write articles on <a href="https://dev.to/100rabhcsmc">https://dev.to/100rabhcsmc</a></p>
+</li>
+<li>
+<p>💬 Ask me about <strong>Reactjs &amp; React-Native</strong></p>
+</li>
+<li>
+<p>📫 How to reach me <strong><a href="mailto:saurabhchavan052@gmail.com">saurabhchavan052@gmail.com</a></strong></p>
+</li>
+<li>
+<p>📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a></p>
 <br>
-  </samp>
-  </details>
-<details>
-  <summary>🌏 global</summary>
-  <br>
-  <details open="">
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img="" align="center" height="50" alt="for the badge"></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img="" align="center" height="50" alt="badgen"></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img="" align="center" height="50" alt="shields.io"></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open="">
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/*</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">*/</span></span></code></pre>
-</details>
-<br>
-</details> 
+</li>
+</ul>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+ </p><div align="center" class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+      </div>
+<p></p>
+<h3 id="blogs-posts">Blogs posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<ul>
+<li><a href="https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j">Download Instagram profile picture using python</a></li>
+<li><a href="https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1">Convert a image to sketch using python</a></li>
+<li><a href="https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8">Upload your project/files in GitHub using commands</a></li>
+</ul>
+<!-- BLOG-POST-LIST:END -->
 <hr>
-<p>Credits: <a href="https://github.com/1999AZZAR">1999AZZAR</a>
-Last Edited on: 23/09/2022</p> 
+<p>Credit: <a href="https://github.com/100rabhcsmc">Saurabh Chavan</a></p>
+<p>Last Edited on: 08/08/2022</p> 
