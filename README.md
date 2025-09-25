@@ -1,8 +1,9 @@
-# 💫 About Me:
-🔭 Atualmente estou cursando Sistemas para Internet no IFPB<br>👯 Buscando colaborar em projetos voltados para desenvolvimento web<br>🌱 Estou buscando aprender mais sobre React, Vue e Angular<br>
 
 
 <h2 align="center">Hello, sou Thais!</h2>
+
+# 💫 About Me:
+🔭 Atualmente estou cursando Sistemas para Internet no IFPB<br>👯 Buscando colaborar em projetos voltados para desenvolvimento web<br>🌱 Estou buscando aprender mais sobre React, Vue e Angular<br>
 
 ###
 
