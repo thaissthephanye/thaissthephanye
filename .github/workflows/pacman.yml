@@ -1,14 +1,12 @@
-name: Generate Pacman Animation
+name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,16 +18,14 @@ jobs:
           ref: output
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Pacman
-        uses: marwin1991/pacman-contribution-graph@main
-        with:
-          github_user_name: thaissthephanye
-          output_svg: pacman-contribution-graph.svg
+      - name: Generate Pacman Chart
+        run: |
+          curl -s "https://ghchart.rshah.org/thaissthephanye" > pacman-contribution-graph.svg
 
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add pacman-contribution-graph.svg
-          git commit -m "Update Pacman animation - $(date)" || exit 0
+          git commit -m "Update Pacman chart" || exit 0
           git push
