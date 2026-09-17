@@ -1,9 +1,7 @@
 # 💫 About Me:
 Olá, sou Thais! 👋<br>
-Atualmente trabalhando como docente EBTT na área tecnológica. 📚<br>
-Me interesso principalmente pelo front-end com JavaScript e seus frameworks. ⚡<br>
-Também tenho interesse por linguagens do back-end como C e Java. 🔧<br>
-**Meta: Ser FullStack!** 🚀
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/strogonoff.js) 
