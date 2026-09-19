@@ -49,8 +49,8 @@
 ### 📊 GitHub em números
 
 <p align="center">
-  <img width="49%" alt="Estatísticas públicas do GitHub de Thais Sthephanye" src="https://github-readme-stats.vercel.app/api?username=thaissthephanye&amp;show_icons=true&amp;locale=pt-br&amp;bg_color=17141f&amp;title_color=ff7ab8&amp;text_color=f6e9f2&amp;icon_color=ff7ab8&amp;border_color=6b3658" />
-  <img width="49%" alt="Linguagens mais usadas nos repositórios públicos de Thais Sthephanye" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaissthephanye&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=17141f&amp;title_color=ff7ab8&amp;text_color=f6e9f2&amp;border_color=6b3658" />
+  <img width="49%" alt="Estatísticas públicas do GitHub de Thais Sthephanye" src="https://raw.githubusercontent.com/thaissthephanye/thaissthephanye/output/github-stats.svg" />
+  <img width="49%" alt="Linguagens dos repositórios públicos de Thais Sthephanye" src="https://raw.githubusercontent.com/thaissthephanye/thaissthephanye/output/github-languages.svg" />
 </p>
 
 

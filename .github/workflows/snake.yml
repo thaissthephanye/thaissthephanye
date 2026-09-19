@@ -34,11 +34,11 @@ jobs:
       - name: Atualizar somente os SVGs da cobrinha
         shell: bash
         run: |
-          cp dist/github-contribution-grid-snake*.svg output/
+          cp dist/*.svg output/
           cd output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg github-stats.svg github-languages.svg
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza animação das contribuições"
             git push origin HEAD:output
