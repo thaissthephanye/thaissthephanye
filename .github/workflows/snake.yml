@@ -1,0 +1,45 @@
+name: Atualizar cobrinha das contribuições
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+
+    steps:
+      - name: Gerar SVGs animados em rosa
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#c33175&color_dots=#f7eef3,#f1c5da,#e789b3,#d75b98,#b53678
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff5ca8&color_dots=#222b36,#582d4e,#8b3f74,#c35b9e,#f38ac0
+
+      - name: Abrir branch de imagens existente
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output
+
+      - name: Atualizar somente os SVGs da cobrinha
+        shell: bash
+        run: |
+          cp dist/github-contribution-grid-snake*.svg output/
+          cd output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza animação das contribuições"
+            git push origin HEAD:output
+          fi

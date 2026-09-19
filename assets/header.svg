@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Thais Sthephanye</title>
+  <desc id="desc">Desenvolvimento, criatividade e código em um banner escuro com detalhes rosa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11131d"/>
+      <stop offset="1" stop-color="#2d1930"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5ca8"/>
+      <stop offset="1" stop-color="#b86af8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="218" rx="18" fill="url(#bg)" stroke="#76395f" stroke-width="2"/>
+  <rect x="34" y="37" width="66" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="34" y="100" fill="#fff5fb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">Thais Sthephanye</text>
+  <text x="36" y="140" fill="#ff99c8" font-family="Arial, Helvetica, sans-serif" font-size="21">desenvolvimento • criatividade • código</text>
+  <text x="36" y="184" fill="#b9acc2" font-family="monospace" font-size="16">github.com/thaissthephanye</text>
+  <g fill="#ff5ca8">
+    <rect x="719" y="65" width="14" height="14" rx="2"/>
+    <rect x="739" y="65" width="14" height="14" rx="2" opacity=".65"/>
+    <rect x="759" y="65" width="14" height="14" rx="2" opacity=".35"/>
+    <rect x="699" y="85" width="14" height="14" rx="2" opacity=".6"/>
+    <rect x="719" y="85" width="14" height="14" rx="2"/>
+    <rect x="739" y="85" width="14" height="14" rx="2" opacity=".8"/>
+    <rect x="779" y="85" width="14" height="14" rx="2" opacity=".4"/>
+    <rect x="699" y="105" width="14" height="14" rx="2" opacity=".4"/>
+    <rect x="719" y="105" width="14" height="14" rx="2"/>
+    <rect x="739" y="105" width="14" height="14" rx="2" opacity=".7"/>
+    <rect x="759" y="105" width="14" height="14" rx="2" opacity=".5"/>
+    <rect x="779" y="105" width="14" height="14" rx="2" opacity=".25"/>
+    <rect x="719" y="125" width="14" height="14" rx="2" opacity=".8"/>
+    <rect x="759" y="125" width="14" height="14" rx="2" opacity=".4"/>
+  </g>
+  <path d="M828 68 L843 83 L828 98 M667 68 L652 83 L667 98" fill="none" stroke="#c57da8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="34" y="205" width="832" height="3" rx="1.5" fill="url(#accent)" opacity=".65"/>
+</svg>
